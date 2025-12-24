@@ -28,5 +28,10 @@
     "age": 28,
     "qrId": "mock-uuid-1",
     "registeredAt": 1766571645950
+  },
+  {
+    "name": "NoAge",
+    "qrId": "mock-uuid-1",
+    "registeredAt": 1766571647441
   }
 ]
